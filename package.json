@@ -1,7 +1,9 @@
 {
 	"name": "lucide-product-icon-theme",
+	"displayName": "Lucide Product Icons",
 	"version": "0.1.0",
 	"publisher": "CodeZage",
+	"repository": "https://github.com/CodeZage/lucide-product-icon-theme",
 	"engines": {
 		"vscode": "*"
 	},
