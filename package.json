@@ -1,0 +1,17 @@
+{
+	"name": "lucide-product-icon-theme",
+	"version": "0.1.0",
+	"publisher": "CodeZage",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"productIconThemes": [
+			{
+				"id": "lucide-icons",
+				"label": "Lucide Product Icons",
+				"path": "./theme/lucide-product-icon-theme.json"
+			}
+		]
+	}
+}

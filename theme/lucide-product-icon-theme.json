@@ -1,0 +1,77 @@
+{
+	"fonts": [
+		{
+			"id": "lucide",
+			"src": [
+				{
+					"path": "./lucide.woff",
+					"format": "woff"
+				}
+			],
+			"weight": "normal",
+			"style": "normal"
+		}
+	],
+	"iconDefinitions": {
+		"explorer-view-icon": {
+			"fontCharacter": "\\ea33"
+		},
+		"search-view-icon": {
+			"fontCharacter": "\\ec62"
+		},
+		"run-view-icon": {
+			"fontCharacter": "\\e8e6"
+		},
+		"extensions-view-icon": {
+			"fontCharacter": "\\ebae"
+		},
+		"source-control-view-icon": {
+			"fontCharacter": "\\ea8c"
+		},
+		"settings-view-bar-icon": {
+			"fontCharacter": "\\ec6d"
+		},
+		"accounts-view-bar-icon": {
+			"fontCharacter": "\\e953"
+		},
+		"new-file": {
+			"fontCharacter": "\\ea1e"
+		},
+		"debug-start": {
+			"fontCharacter": "\\ebf0"
+		},
+		"new-folder": {
+			"fontCharacter": "\\ea64"
+		},
+		"refresh": {
+			"fontCharacter": "\\ec25"
+		},
+		"breakpoints-view-icon": {
+			"fontCharacter": "\\e8e6"
+		},
+		"callstack-view-icon": {
+			"fontCharacter": "\\e8e6"
+		},
+		"callstack-view-session": {
+			"fontCharacter": "\\e8e7"
+		},
+		"callhierarchy-incoming": {
+			"fontCharacter": "\\ebd9"
+		},
+		"callhierarchy-outgoing": {
+			"fontCharacter": "\\ebdc"
+		},
+		"extensions-manage": {
+			"fontCharacter": "\\ec6d"
+		},
+		"extensions-rating": {
+			"fontCharacter": "\\ecee"
+		},
+		"refactor-preview-view-icon": {
+			"fontCharacter": "\\eb09"
+		},
+		"remote-explorer-view-icon": {
+			"fontCharacter": "\\eb6c"
+		}
+	}
+}
