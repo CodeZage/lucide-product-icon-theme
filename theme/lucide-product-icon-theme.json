@@ -72,6 +72,105 @@
 		},
 		"remote-explorer-view-icon": {
 			"fontCharacter": "\\eb6c"
+		},
+		"test-view-icon": {
+			"fontCharacter": "\\ea46"
+		},
+		"testing-run-icon": {
+			"fontCharacter": "\\ebf0"
+		},
+		"testing-run-all-icon": {
+			"fontCharacter": "\\ebf0"
+		},
+		"testing-debug-all-icon": {
+			"fontCharacter": "\\e8e6"
+		},
+		"testing-filter": {
+			"fontCharacter": "\\ea37"
+		},
+		"testing-refresh-tests": {
+			"fontCharacter": "\\ec25"
+		},
+		"testing-rerun-icon": {
+			"fontCharacter": "\\ec25"
+		},
+		"testing-update-profiles": {
+			"fontCharacter": "\\ec6d"
+		},
+		"testing-turn-continuous-run-on": {
+			"fontCharacter": "\\e9f1"
+		},
+		"testing-turn-continuous-run-off": {
+			"fontCharacter": "\\e9f0"
+		},
+		"testing-continuous-is-on": {
+			"fontCharacter": "\\e9f1"
+		},
+		"test-results-icon": {
+			"fontCharacter": "\\eb0f"
+		},
+		"testing-cancel-refresh-tests": {
+			"fontCharacter": "\\eda6"
+		},
+		"testing-hidden": {
+			"fontCharacter": "\\e9f0"
+		},
+		"testing-missing-branch": {
+			"fontCharacter": "\\e945"
+		},
+		"testing-cancel-icon": {
+			"fontCharacter": "\\eda6"
+		},
+		"testing-debug-icon": {
+			"fontCharacter": "\\e8e6"
+		},
+		"testing-error-icon": {
+			"fontCharacter": "\\ed4e"
+		},
+		"testing-failed-icon": {
+			"fontCharacter": "\\e954"
+		},
+		"testing-passed-icon": {
+			"fontCharacter": "\\e936"
+		},
+		"testing-queued-icon": {
+			"fontCharacter": "\\e970"
+		},
+		"testing-skipped-icon": {
+			"fontCharacter": "\\e955"
+		},
+		"testing-unset-icon": {
+			"fontCharacter": "\\e93c"
+		},
+		"testing-show-as-list-icon": {
+			"fontCharacter": "\\eb1a"
+		},
+		"testing-coverage": {
+			"fontCharacter": "\\e917"
+		},
+		"testing-was-covered": {
+			"fontCharacter": "\\e918"
+		},
+		"run-errors": {
+			"fontCharacter": "\\ec24"
+		},
+		"terminal": {
+			"fontCharacter": "\\ece4"
+		},
+		"more": {
+			"fontCharacter": "\\e9e9"
+		},
+		"ellipsis": {
+			"fontCharacter": "\\e9e9"
+		},
+		"kebab-horizontal": {
+			"fontCharacter": "\\e9e9"
+		},
+		"kebab-vertical": {
+			"fontCharacter": "\\e9e8"
+		},
+		"go-to-file": {
+			"fontCharacter": "\\ea26"
 		}
 	}
 }
